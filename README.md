@@ -1,2 +1,7 @@
 # donkeycar-colab-training
-Training of a donkeycar keras pilot on Google Colab
+Training notebook of a donkeycar keras pilot on Google Colab
+
+Credits:
+* Seba
+* Chris
+* Urubots
